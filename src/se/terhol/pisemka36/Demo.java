@@ -1,6 +1,5 @@
 package se.terhol.pisemka36;
 
-import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.File;
 

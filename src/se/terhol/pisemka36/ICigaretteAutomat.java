@@ -38,7 +38,7 @@ public interface ICigaretteAutomat
     void restock(CigaretteBrand cigarette, int numPacks);
 
     /**
-     * Writes cigarettes to given output stream. Data are writen in text mode.
+     * Writes cigarettes to given output stream. Data are written in text mode.
      * Each line consists of three records separated by single white space: 
      * (1) number of packs available in the automat, (2) price and 
      * (3) label of the cigarette brand. Example follows:
